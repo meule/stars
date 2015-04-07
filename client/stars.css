@@ -1,0 +1,21 @@
+html, body {
+	background: #1a055c;
+	width: 100%;
+	height: 100%;
+	padding: 0;
+	margin: 0;
+}
+svg {
+	width: 100%;
+	height: 100%;
+}
+.star {
+	fill: white;
+}
+
+.graticule {
+	fill: none;
+	stroke: white;
+	stroke-width: 0.2px;
+	vector-effect: non-scaling-stroke;
+}
